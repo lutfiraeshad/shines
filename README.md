@@ -55,6 +55,3 @@ Backend services such as authentication, cart management, and payment processing
 - Improve mobile responsiveness
 - Add state management for user interactions
 - Integrate backend services
-
-## Project Structure
-
