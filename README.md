@@ -1,11 +1,10 @@
-# Shines
+# ShineS
 
-Shines is a **frontend e-commerce web application prototype** inspired by real-world online stores.  
+ShineS is a **frontend e-commerce web application prototype** inspired by real-world online stores.  
 This project focuses on **product presentation, promotional sections, and modern UI components** commonly found in production e-commerce platforms.
 
 The application simulates an online shopping experience by showcasing promotional banners, product listings, and available payment methods using a clean and responsive interface.
 
----
 
 ## Project Overview
 
@@ -17,7 +16,6 @@ Key goals of this project:
 - Implement reusable UI components
 - Practice modern frontend development tools and libraries
 
----
 
 ## Features
 
@@ -29,7 +27,6 @@ Key goals of this project:
 - Display of popular Indonesian payment methods
 - Clean and modern UI using a CSS framework
 
----
 
 ## Tech Stack
 
@@ -39,14 +36,12 @@ Key goals of this project:
 - Bulma CSS Framework  
 - Swiper.js  
 
----
 
 ## Notes
 
 This project is a **frontend-only prototype**.  
 Backend services such as authentication, cart management, and payment processing are not implemented and are represented only at the UI level.
 
----
 
 ## Future Improvements
 
